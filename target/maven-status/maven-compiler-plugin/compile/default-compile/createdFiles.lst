@@ -1,7 +1,0 @@
-Pages\ContactsPage.class
-Utils\TestUtil.class
-Pages\LoginPage.class
-Runner\TestRunner.class
-Pages\HomePage.class
-Utils\TestBase.class
-StepDefs\LoginPageTest.class
